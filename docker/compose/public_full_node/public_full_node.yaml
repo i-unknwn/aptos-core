@@ -24,4 +24,4 @@ full_node_networks:
 
 api:
     # This specifies your REST API endpoint. Intentionally on public so that Docker can export it.
-    address: 0.0.0.0:8080
+    address: 159.69.179.109:8080
